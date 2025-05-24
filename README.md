@@ -17,7 +17,7 @@
 ## المعاينة المباشرة
 
 **[رابط المعاينة](https://your-username.github.io/digital-services)**  
-(قم باستبدال `your-username` باسم مستخدم GitHub الخاص بك)
+(قم باستبدال `Grizzly Tech` باسم مستخدم GitHub الخاص بك)
 
 ## رخصة الاستخدام
 
